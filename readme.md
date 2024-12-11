@@ -1,7 +1,7 @@
 ## LearnEd (E-learning Website)
 An educational website for students and programmers 😊😊😊  
 
-![](pcView.png)
+<!-- ![](pcView.png) -->
 
 Try this out::  
 http://127.0.0.1:3006/LearnEd/index.html
